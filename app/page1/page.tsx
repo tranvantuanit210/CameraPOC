@@ -8,7 +8,7 @@ export default function Page1(props: Page1Props) {
   return (
     <div className="min-h-screen">
       <h1 className="text-center py-8 font-bold text-3xl">Page 1</h1>
-      <div className="px-40">
+      <div className="px-4 lg:px-40">
         <p>
           Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever
           since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five
